@@ -8,4 +8,4 @@ Technologies
 This application uses the following: Node.js, Axios, Dotenv, and Inquirer.
 
 Experiences
-Building this application was a challenge. One of the challenging parts of building the application was being able to use user input in order to make an API call using Axios. Another challenge was being able to combine data from two different sources for use in generating the readme file. Through this experience, I learned more about using packages from npm, using an async function, and modularizing my application.
+Building this application was a challenge. One of the challenging parts of building the application was being able to use user input in order to make an API call using Axios.
